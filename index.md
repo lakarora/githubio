@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## A little bit more about me
 
-You can use the [editor on GitHub](https://github.com/lakarora/githubio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a senior at UMass Amherst pursuing a B.S. degree in Computer Science. My expected date of graduation is May 2020 and I am going to be working at Facebook as a software engineer starting August 2020. Having a knack for problem solving and curiosity to learn new technologies, I spend a lot of time involving myself in open source projects and understanding other developers' frameworks. 
 
 ### Markdown
 
